@@ -70,7 +70,7 @@ ul li::before{
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background-image: url(u.jpg);
+    background-image: url(images/u.jpg);
     background-size: cover;
     background-position: center;
     top:12px;
@@ -82,7 +82,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(c.jpg);
+    background-image: url(images/c.jpg);
 }
 ul li span{
     position: absolute;
